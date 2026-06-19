@@ -9,8 +9,8 @@
 - 🏭 Líder de Produção em indústria de microfusão, com quase **10 anos em liderança operacional**
 - 📊 Desenvolvo soluções de **Business Intelligence aplicadas à manufatura industrial**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (UniCesumar — 2027)
-- 🐍 Estudando **Python** e **SQL** diariamente
-- 🚀 Em transição de carreira para **Análise de Dados e BI**
+- 🐍 Aplicando **SQL**, **Power BI** e **Python** em projetos de análise de dados e melhoria operacional.
+- 🚀 Atuação em **Analytics, BI e Performance Operacional**.
 - 📍 Grande Florianópolis, SC — aberto a vagas **remotas**
 
 ---
