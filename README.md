@@ -46,13 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Jhonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjpanisson&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjpanisson&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 📫 Contato
 
