@@ -29,7 +29,7 @@
 ## 📁 Projetos em Destaque
 
 ### 🏭 [Dashboard de Produção & OEE](https://github.com/rjpanisson/dashboard-producao-injecao)
-> Monitoramento completo de um setor de injeção plástica com cálculo de OEE, análise de paradas, perdas e desempenho por operador e injetora.
+> Monitoramento completo de um setor de injeção com cálculo de OEE, análise de paradas, perdas e desempenho por operador e injetora.
 - **Star Schema** com 10 tabelas (fatos e dimensões)
 - Cálculo de **OEE via DAX** com drill-down por injetora, operador, turno e peça
 - Filtros interativos por período, turno, injetora e operador
