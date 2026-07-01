@@ -1,6 +1,6 @@
 # Olá, eu sou o Jhonathan Panisson 👋
 
-### Analista de Dados & BI | Power BI · SQL · Python | Eficiência Operacional & OEE
+### Analista de Dados & BI | Power BI · SQL · Python | Databricks
 
 ---
 
