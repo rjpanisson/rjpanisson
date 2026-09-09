@@ -6,12 +6,12 @@
 
 ## 🙋 Sobre mim
 
-- 🏭 Analista de BI em indústria de microfusão, com quase **10 anos em liderança operacional**
+- 📉 Analista de Dados e BI em Plataforma de iGaming
 - 📊 Desenvolvo soluções de **Business Intelligence aplicadas à tomada de decisão**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (UniCesumar — 2027)
-- 🐍 Aplicando **SQL**, **Power BI** e **Python** em projetos de análise de dados e melhoria operacional.
-- 🚀 Atuação em **Analytics, BI e Performance Operacional**.
-- 📍 Grande Florianópolis, SC — aberto a vagas **remotas**
+- 🐍 Aplicando **SQL**, **Apache SuperSet** e **Python** em Análises Ad-Hoc
+- 🚀 Atuação em **Analytics, BI e Performance**
+
 
 ---
 
