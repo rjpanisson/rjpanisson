@@ -1,6 +1,6 @@
 # Olá, eu sou o Jhonathan Panisson 👋
 
-### Analista de Dados & BI | Power BI · SQL · Python | Databricks
+### Analista de Dados & BI | Power BI · SuperSet · SQL · Python | Databricks
 
 ---
 
